@@ -1,9 +1,7 @@
 # Courses
 
-### 
-
-- CS 691 Advanced ML (2021)
-- CS 328 [Introduction to Data Science (2021)](CS328-2021.md) 
+- CS 691 Advanced ML (2021)(https://sites.google.com/iitgn.ac.in/cs691advml/home)
+- CS 328 [Introduction to Data Science (2021)](CS328-2021) 
 
 ## Topics and tentative schedule
 
