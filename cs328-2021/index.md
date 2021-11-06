@@ -1,4 +1,4 @@
-### CS 328 (Introduction to Data Science)
+# CS 328 (Introduction to Data Science)
 
 ## Learning Outcomes
 
