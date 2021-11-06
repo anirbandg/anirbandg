@@ -11,8 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# CS 328: Introduction to Data Science
+## Topics
+
+## Learning Outcomes
+
+## Rough Timeline
+
+
 ### Header 3
 
 - Bulleted
