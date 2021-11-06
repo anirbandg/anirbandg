@@ -1,12 +1,7 @@
 # Courses
 
-- CS 691 Advanced ML (2021)(https://sites.google.com/iitgn.ac.in/cs691advml/home)
+- [CS 691 Advanced ML (2021)](https://sites.google.com/iitgn.ac.in/cs691advml/home)
 - CS 328 [Introduction to Data Science (2021)](CS328-2021) 
-
-## Topics and tentative schedule
-
-
-## Schedule
 
 
 You can use the [editor on GitHub](https://github.com/anirbandg/anirbandg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
