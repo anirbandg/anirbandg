@@ -1,4 +1,11 @@
-# CS 328 (Introduction to Data Science)
+## Course Description
+
+
+## Lecture Schedule
+
+
+## Teaching Staff
+
 
 ## Learning Outcomes
 
