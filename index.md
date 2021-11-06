@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+# Courses
+
+### 
+
+- CS 691 Advanced ML (2021)
+- CS 328 [Introduction to Data Science (2021)](CS328-2021.md) 
+
+## Topics and tentative schedule
+
+
+## Schedule
+
 
 You can use the [editor on GitHub](https://github.com/anirbandg/anirbandg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,12 +22,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# CS 328: Introduction to Data Science
-## Topics
 
-## Learning Outcomes
 
-## Rough Timeline
 
 
 ### Header 3
